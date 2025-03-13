@@ -1,0 +1,56 @@
+
+--- Attendance Session: 2025-03-12 22:20:09 ---
+Present Students: Pannaga J A
+Absent Students: 
+
+--- Attendance Session: 2025-03-12 22:49:45 ---
+Present Students: Pannaga J A
+Absent Students: Raghuveer
+
+--- Attendance Session: 2025-03-12 22:56:18 ---
+Present Students: 
+Absent Students: Pannaga J A, Raghuveer
+
+--- Attendance Session: 2025-03-12 23:00:24 ---
+Present Students: Raghuveer, Pannaga J A
+Absent Students: 
+
+--- Attendance Session: 2025-03-12 23:00:58 ---
+Present Students: Pannaga J A
+Absent Students: Raghuveer
+
+--- Attendance Session: 2025-03-12 23:05:14 ---
+Present Students: Pannaga J A, Raghuveer
+Absent Students: 
+
+--- Attendance Session: 2025-03-12 23:05:45 ---
+Present Students: Pannaga J A, Raghuveer
+Absent Students: 
+
+--- Attendance Session: 2025-03-12 23:16:10 ---
+Present Students: Pannaga J A, Raghuveer
+Absent Students: 
+
+--- Attendance Session: 2025-03-12 23:16:37 ---
+Present Students: Pannaga J A, Raghuveer
+Absent Students: 
+
+--- Attendance Session: 2025-03-12 23:17:26 ---
+Present Students: Pannaga J A
+Absent Students: Raghuveer
+
+--- Attendance Session: 2025-03-12 23:18:16 ---
+Present Students: Raghuveer
+Absent Students: Pannaga J A
+
+--- Attendance Session: 2025-03-12 23:18:40 ---
+Present Students: Pannaga J A
+Absent Students: Raghuveer
+
+--- Attendance Session: 2025-03-12 23:19:07 ---
+Present Students: 
+Absent Students: Pannaga J A, Raghuveer
+
+--- Attendance Session: 2025-03-13 15:14:33 ---
+Present Students: Pannaga J A
+Absent Students: Raghuveer

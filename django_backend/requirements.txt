@@ -1,0 +1,11 @@
+Django==4.2.10
+djangorestframework==3.14.0
+django-cors-headers==4.3.1
+dlib==19.24.2
+opencv-python==4.8.1.78
+numpy==1.26.3
+Pillow==10.1.0
+google-api-python-client==2.108.0
+google-auth==2.23.4
+google-auth-oauthlib==1.1.0
+reportlab==4.0.8
