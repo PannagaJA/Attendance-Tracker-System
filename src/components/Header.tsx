@@ -12,6 +12,7 @@ const Header: React.FC = () => {
     navigate('/login');
   };
 
+  
   return (
     <header className="bg-blue-600 text-white shadow-md">
       <div className="container mx-auto px-4 py-3 flex justify-between items-center">
